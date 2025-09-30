@@ -1,3 +1,7 @@
+Trần Công Ánh
+Mã sinh viên: 22IT.B009
+Lớp: Phát triển ứng dụng đa nền tảng (1)
+
 # 📷 Photo Journal App
 
 Ứng dụng di động mini được phát triển bằng **React + Vite** kết hợp với **Capacitor**.  
